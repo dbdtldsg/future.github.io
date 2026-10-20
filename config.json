@@ -1,13 +1,11 @@
 {
-    "title":"随笔",
-    "subTitle":"所有人都会走向深渊，至于能不能爬出来...",
-    "avatarUrl":"https://avatars.githubusercontent.com/u/77574242?v=4",
-    "GMEEK_VERSION":"last",
-    "themeMode":"fix",
-    "dayTheme":"dark",
-    "nightTheme":"dark-blue",
-    "style": "<style>#footer2 {display: none !important;}</style>"
-
-
-
+  "title": "随笔",
+  "subTitle": "所有人都会走向深渊，至于能不能爬出来…",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77574242?v=4",
+  "GMEEK_VERSION": "last",
+  "themeMode": "fix",
+  "dayTheme": "dark",
+  "nightTheme": "dark-blue",
+  "style": "<style>body{font-family:'Noto Sans SC',system-ui,sans-serif;line-height:1.85;color:#e5e7eb;}article{max-width:760px;margin:0 auto;padding:32px 20px;font-size:17px;}h1{font-size:28px;margin:1.4em 0 0.6em;}h2{font-size:22px;margin:1.3em 0 0.5em;color:#cbd5e1;}p{margin:1.1em 0;}</style>",
+  "indexStyle": "<style>#footer2{display:none !important;}body{font-family:'Noto Sans SC',system-ui,sans-serif;}.markdown-body{max-width:840px;margin:0 auto;padding:24px 20px;}#footer{margin-top:80px;padding-top:24px;text-align:center;font-size:14px;color:#94a3b8;opacity:0.85;letter-spacing:1px;}</style>"
 }
