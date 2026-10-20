@@ -2,7 +2,9 @@
     "title":"随笔",
     "subTitle":"所有人都会走向深渊，至于能不能爬出来...",
     "avatarUrl":"https://avatars.githubusercontent.com/u/77574242?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "style": "<style>#footer2 {display: none !important;}</style>"
+
 
 
 }
